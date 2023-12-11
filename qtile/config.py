@@ -28,7 +28,7 @@ from qtile_extras.widget.decorations import RectDecoration
 
 
 
-mod = "mod1"
+mod = "mod2"
 terminal = "terminator"
 myBrowser = "firefox"
 
